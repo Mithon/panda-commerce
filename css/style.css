@@ -1,0 +1,14 @@
+.panda-bg-color{
+    background-color: #fceae8;
+}
+.img-siz img{
+    width: 100px;
+    height: 90px;
+}
+.panda-btn-custom{
+    background-color: #ff4791;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
